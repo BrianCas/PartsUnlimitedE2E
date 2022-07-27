@@ -4,6 +4,7 @@ namespace PartsUnlimited.Models
 {
     public class Manufacturer
     {
+        // Modificando CS denominado Manufacturer
         public int ManufacturerId { get; set; }
 
         [Required]
